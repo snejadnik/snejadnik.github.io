@@ -83,10 +83,9 @@ author:
   name             : "Sebastien Nejadnik"
   avatar           : "profile_new.png"
   bio              :
-  - |
-    Engineer.
+    - 'Engineer.
     Leader.
-    Perennial Student.
+    Perennial Student.'
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
