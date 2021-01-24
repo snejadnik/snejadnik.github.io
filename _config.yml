@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Sebastien Nejadnik"
   avatar           : "profile_new.png"
-  bio              : >"\n
-    Engineer.
-    \n
-    Leader.
-    \n
-    Perennial Student.
-    \n"
+  bio              : |-\n
+··Several lines of text,\n
+··with some "quotes" of various 'types',\n
+··and also a blank line:\n
+··\n
+··plus another line at the end.\n
+··\n
+··\n
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
